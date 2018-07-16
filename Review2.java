@@ -57,8 +57,13 @@ Each number and space in the array consists with its index
 
     //EXERCISE: Create a String array called birbs with 5 indexes. In the first index put "cockatiels"
     
-    
-
+      String[] birbs;
+      birbs = new String[5];
+      birbs[0] = "cocktiels";
+      birbs[1] = "sparrow";
+      birbs[2] = "bluebirds";
+      birbs[3] = "raven";
+      birbs[4] = "crow";
 	
 
 
